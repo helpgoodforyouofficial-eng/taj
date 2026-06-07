@@ -506,9 +506,9 @@ if(waEl) {
 
 // Splash Screen ka Private Data
 const splashData = {
-    name: "Taj Karyana \n & Mobile Shop",
-    phone: "0334-6800959",
-    address: "Taj Chowk National Highway Saidq Abad"
+    name: "HM ERP \n System",
+    phone: "0300-1516637",
+    address: "Model Town, Lahore Pakistan"
 };
 
 function initSplash() {
